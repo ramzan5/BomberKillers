@@ -14,7 +14,7 @@ font = pygame.font.SysFont("Aguda", 32)
 
 #Function used to load the image at background
 
-background = pygame.image.load("bg.jpg")
+background = pygame.image.load("resources/bg.jpg")
 #Bool variable to turn on the screen
 screen_On = True
 
